@@ -27,14 +27,13 @@ public class PressureActivity extends AppCompatActivity {
     private EditText pulse;
     private Button save;
     private Button cancel;
-    //public  Time time;
+
     private static final String TAG = "Окно Запись давления";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        //txtName = getIntent().getExtras().getString("user");
-        //txtName = getIntent().getStringExtra("user");
+
         if (MainActivity.user == null) {
             Log.i(TAG, "Пользователь не заведен, перенаправление на страницу с уведомлением");
             Intent intent = new Intent(getApplicationContext(), EmptyActivity.class);
