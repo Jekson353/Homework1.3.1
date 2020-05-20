@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Homework1.3.1</string>
+    <string name="lable_info_patient">Данные пациента</string>
+    <string name="label_info_apk">Комплексная система мониторинга здоровья (автор - Самойленко А.С.)</string>
+    <string name="save">Сохранить</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="date_of_measurement">Дата замера</string>
+    <string name="time_of_measurement">Время замера</string>
+    <string name="tachycardia">Тахикардия</string>
+    <string name="pulse">Пульс</string>
+    <string name="top_pressure">Верхнее давление</string>
+    <string name="lower_pressure">Нижнее давление</string>
+    <string name="label_info_pressure">Запись давления</string>
+    <string name="label_info_indicator">Жизненные показатели</string>
+    <string name="weight">Вес</string>
+    <string name="quantity_of_steps">Количество шагов</string>
+    <string name="snm_patient">ФИО пациента</string>
+    <string name="age">Возраст пациента</string>
+    <string name="indicator">Показатели</string>
+    <string name="pressure">Давление</string>
+    <string name="logo">logo</string>
+    <string name="no_user">Пользователь не задан. Для начала введите данные пациента.</string>
+    <string name="cancel">Отмена</string>
+    <string name="no_all_value">Введены не все данные!</string>
+    <string name="all_value_success">Данные успешно записаны</string>
+    <string name="no_val_tach">Ничего не выбрано</string>
+    <string name="tachy_yes">Тахикардия это плохо…</string>
+    <string name="lowPres_sure">Нижнее давление %d Вы уверены?</string>
+    <string name="highPres_sure">Верхнее давление %d Вы уверены?</string>
+    <string name="pulse_sure">Пульс %d Вы уверены?</string>
+    <string name="tachy_no">Уффф…</string>
+    <string name="patient">Пациент: %s</string>
+    <string name="result_indicator_text">Пациент \'%s\', Вес = \'%s кг\', шагов = \'%s\', дата замера: \'%s\'</string>
+    <string name="result_pressure_text">Пациент \'%s\' Вдав = \'%d\' Ндав = \'%d\' пульс= \'%d\' тахикардия \'%s\' дата записи \'%s\' время записи \'%s\'</string>
+
+</resources>
